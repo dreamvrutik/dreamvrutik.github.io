@@ -7,7 +7,7 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -23,9 +23,9 @@ body {
 
 a {
   color: #2c98f0;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s; }
+  -webkit-transition: 0.25s;
+  -o-transition: 0.25s;
+  transition: 0.25s; }
   a:hover, a:active, a:focus {
     color: #2c98f0;
     outline: none;
@@ -81,9 +81,9 @@ figure {
   overflow-y: scroll;
   z-index: 1001;
   background: #f2f3f7;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s; }
+  -webkit-transition: 0.25s;
+  -o-transition: 0.25s;
+  transition: 0.25s; }
   @media screen and (max-width: 768px) {
     #colorlib-aside {
       width: 300px;
@@ -222,9 +222,9 @@ figure {
 #colorlib-main {
   width: calc(100% - 300px);
   float: right;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s; }
+  -webkit-transition: 0.25s;
+  -o-transition: 0.25s;
+  transition: 0.25s; }
   @media screen and (max-width: 768px) {
     #colorlib-main {
       width: 100%;
@@ -1169,9 +1169,9 @@ body.offcanvas {
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
   border-radius: 2px;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 0.25s;
+  -o-transition: 0.25s;
+  transition: 0.25s;
   padding: 8px 15px !important; }
   .btn.btn-sm {
     padding: 4px 15px !important; }
@@ -1388,9 +1388,9 @@ body.offcanvas {
   opacity: 1;
   visibility: hidden;
   padding: 20px;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s; }
+  -webkit-transition: 0.25s;
+  -o-transition: 0.25s;
+  transition: 0.25s; }
   @media screen and (max-width: 768px) {
     .colorlib-nav-toggle {
       opacity: 1;
